@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/DESI1212_1617_w211.unity
+  isLoaded: 1
+  isActive: 1
